@@ -70,8 +70,7 @@ my_duck = Duck("Кряква", 8)
 
 list_name = [x.name for x in Animals.name_ref]
 list_weight = [x.weight for x in Animals.name_ref]
-max_value = max(list_weight)
-max_index = list_weight.index(max_value)
+max_index = list_weight.index(max(list_weight))
 print(f"Общий вес всех животных {sum(list_weight)}, имя самого тяжелого животного {list_name[max_index]}.")
 
 
