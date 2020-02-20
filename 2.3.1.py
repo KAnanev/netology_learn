@@ -1,7 +1,7 @@
 try:
     expression = input("Введите выражение в польской нотации: ")
     list_exp = list(expression.split())
-    assert list_exp[0] in ['+', '-', '*', '/'], 'not passed'
+    assert list_exp[0] in ['+', '-', '*', '/']
 
     num_one = int(list_exp[1])
     num_two = int(list_exp[2])
