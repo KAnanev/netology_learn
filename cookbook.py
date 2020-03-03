@@ -41,12 +41,3 @@ def get_shop_list_by_dishes(dishes, person_count):
 
 
 get_shop_list_by_dishes(['Омлет, Запеченный картофель'], 2)
-
-
-# for dish, ingredients in cook_book.items():
-#     if dish in dishes:
-#         for item in ingredients:
-#             item['quantity'] = int(item['quantity']) * person_count
-#             temp_list1.append(item['ingredient_name'])
-#             del item['ingredient_name']
-#             temp_list2.append(item)
