@@ -25,19 +25,24 @@ def get_shop_list_by_dishes(dishes, person_count):
     temp_list2 = []
     dict_list3 = {}
     for dish in dishes:
-        for key, value in cook_book.items():
-            if key in dish:
-                for ingredients in value:
-                    temp_list2.append(ingredients['ingredient_name'])
-                    temp_list1.append(ingredients)
-    for item in temp_list1:
-        item.pop('ingredient_name')
-        item['quantity'] = int(item['quantity']) * person_count
-    for item_1 in temp_list2:
-        for item_2 in temp_list1:
-            dict_list3[item_1] = item_2
+        if dish in cook_book.keys():
+            for item in cook_book[dish]:
+                print(item)
 
+    #     for key, value in cook_book.items():
+    #         if key in dish:
+    #             for ingredients in value:
+    #                 temp_list2.append(ingredients['ingredient_name'])
+    #                 temp_list1.append(ingredients)
+    # for item in temp_list1:
+    #     item.pop('ingredient_name')
+    #     item['quantity'] = int(item['quantity']) * person_count
+    # for item_1 in temp_list2:
+    #     for item_2 in temp_list1:
+    #         dict_list3[item_1] = item_2
+
+    print(temp_list1)
     print(dict_list3)
 
 
-get_shop_list_by_dishes(['Омлет, Запеченный картофель'], 2)
+get_shop_list_by_dishes(['Омлет', 'Омлет'], 3)
