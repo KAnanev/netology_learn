@@ -36,4 +36,4 @@ def get_shop_list_by_dishes(dishes, person_count):
     print(dict_list3)
 
 
-get_shop_list_by_dishes(['Омлет, Омлет, Омлет, Запеченный картофель, Фахитос'], 5)
+get_shop_list_by_dishes(['Омлет, Омлет'], 3)
