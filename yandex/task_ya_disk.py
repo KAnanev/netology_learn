@@ -7,7 +7,7 @@ file_name = 'DE-ru.txt'
 full_file_path = '/Users/ananevkonstantin/PycharmProjects/polygon/yandex/DE-ru.txt'
 
 GET_URL = 'https://cloud-api.yandex.net/v1/disk/resources/upload'
-TOKEN = 'OAuth AgAAAAAFzippAADLW7FX3n4lJ0XTtpt6RQ1lQus'
+TOKEN = ''
 params = {'path': f'/{file_name}', 'overwrite': 'true'}
 headers = {'Accept': 'application/json', 'Authorization': TOKEN}
 
