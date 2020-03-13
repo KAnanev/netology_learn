@@ -10,7 +10,7 @@ root = tree.getroot()
 description = root.findall('channel/item')
 
 for i in description:
-    list_words.append(i.find('description').text)
+    list_words.append(i.find('description').text.lower())
 
 description = ' '.join(list_words)
 description_list = description.split(' ')
