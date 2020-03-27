@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = 'fa76c00a6714cad44f2b16befabe0359c72a5270d20f133dd70913eff780a17d5089d9843b84a270788df'
+TOKEN = ''
 
 source_user = 577250478
 target_user = 355405083
