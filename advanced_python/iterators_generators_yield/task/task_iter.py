@@ -20,10 +20,6 @@ class FindWiki:
         country = data_1['translations']['rus']['common']
         self.write_file.write(f"{country} - https://ru.wikipedia.org/wiki/{'_'.join(country.split())}\n")
 
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.read_file.close()
-        self.write_file.close()
-
 
 if __name__ == '__main__':
     for find_str in FindWiki('countries.json', 'countries_link.txt'):
