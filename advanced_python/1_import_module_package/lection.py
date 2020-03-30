@@ -1,4 +1,4 @@
-import data
+from basic_python import data
 
 
 class Secretary:
