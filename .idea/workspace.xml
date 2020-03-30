@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d9dfd7c-8d13-4feb-bd38-0db5447ce900" name="Default Changelist" comment="" />
+    <list default="true" id="8d9dfd7c-8d13-4feb-bd38-0db5447ce900" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/12_work_in_class_api_vk/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/1_acquaintance with Python/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/2_conditional_constructions_comparison_operations/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/3_ introduction_ to_data_types_and_loops/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/4_cycles_data_types_data_collections/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/5_function/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/6_classes_python/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/8_open_read_write_file/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/9_context manager/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/cookbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/8_open_read_write_file/cookbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/file_format_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/10_work_format_data/file_format_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/file_format_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/10_work_format_data/file_format_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/manager_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/9_context manager/manager_context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/poland_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/7_exception/poland_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/vk/task_get_mutual.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/12_work_in_class_api_vk/task_get_mutual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/yandex/task_ya_disk.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task_ya_disk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/yandex/task_ya_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task_ya_translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/сlass_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/6_classes_python/сlass_object.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,15 +54,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\advanced_python\import_module_package\task" />
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\Advanced_Python" />
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\import_module_package" />
-      <recent name="C:\Users\russr\PycharmProjects\task2_2" />
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\import_module_package\task\application" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\russr\PycharmProjects\task2_2\import_module_package\task\application\db" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\12_work_in_class_api_vk" />
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\11_requests_http" />
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\10_work_format_data" />
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\9_context manager" />
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\8_open_read_write_file" />
     </key>
   </component>
   <component name="RunManager" selected="Python.task_gen">
@@ -248,12 +269,44 @@
       <option name="project" value="LOCAL" />
       <updated>1585563561276</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="end task_gen.py">
+      <created>1585577498717</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585577498717</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -262,6 +315,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,18 +340,18 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="734" y="394" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1585312889802" />
-    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585456586390">
+    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585579169034">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1585456586390" />
+    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1585579169034" />
     <state x="999" y="366" key="#dirty_main" timestamp="1585456201257">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="999" y="366" key="#dirty_main/0.40.2560.1400@0.40.2560.1400" timestamp="1585456201257" />
-    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585577471327">
+    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585580241418">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577471327" />
+    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580241418" />
     <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog" timestamp="1585456820775">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -342,10 +400,14 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="597" y="418" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1585416304187" />
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585563562985">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1585577756943">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585563562985" />
+    <state width="498" height="446" key="SwitcherDM/0.40.2560.1400@0.40.2560.1400" timestamp="1585577756943" />
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585577504507">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577504507" />
     <state x="975" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1585577383108">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -358,5 +420,9 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="1650" y="534" key="git4idea.merge.GitPullDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1583414067933" />
+    <state x="943" y="355" width="672" height="678" key="search.everywhere.popup" timestamp="1585577770346">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="943" y="355" width="672" height="678" key="search.everywhere.popup/0.40.2560.1400@0.40.2560.1400" timestamp="1585577770346" />
   </component>
 </project>
