@@ -1,20 +1,24 @@
+import json
+
+
 class FindWiki:
     def __init__(self, path):
-        self.path = path
-        self.file = open(self.path, encoding='utf8')
+        self.file = open(path, "r")
+        self.data = json.load(self.file)
+        self.start = 0
+        self.end = len(self.data)
 
     def __iter__(self):
         return self
 
     def __next__(self):
-        read_file = self.file.readline()
-        if not read_file:
+        if self.start == self.end:
             raise StopIteration
-        return read_file
+        data_1 = self.data[self.start]
+        self.start += 1
+        return data_1
 
 
 if __name__ == '__main__':
     for find_str in FindWiki('countries.json'):
         print(find_str)
-
-

@@ -36,10 +36,10 @@ def health_check(path):
 
 
 if __name__ == '__main__':
-    for status in HealthCheck('urls.list'):
+    for status in HealthCheck('sites.list'):
         print(status)
 
-    for status in health_check('urls.list'):
+    for status in health_check('sites.list'):
         print(status)
 
     sample_list = [2, 5, 1, 0]
