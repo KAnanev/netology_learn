@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d9dfd7c-8d13-4feb-bd38-0db5447ce900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/12_work_in_class_api_vk/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/1_acquaintance with Python/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/2_conditional_constructions_comparison_operations/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/3_ introduction_ to_data_types_and_loops/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/4_cycles_data_types_data_collections/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/5_function/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/6_classes_python/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/8_open_read_write_file/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_python/9_context manager/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/cookbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/8_open_read_write_file/cookbook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/file_format_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/10_work_format_data/file_format_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/file_format_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/10_work_format_data/file_format_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/manager_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/9_context manager/manager_context.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/poland_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/7_exception/poland_not.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/vk/task_get_mutual.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/12_work_in_class_api_vk/task_get_mutual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/yandex/task_ya_disk.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task_ya_disk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/yandex/task_ya_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/11_requests_http/task_ya_translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/сlass_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/6_classes_python/сlass_object.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +48,7 @@
       <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\8_open_read_write_file" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_gen">
+  <component name="RunManager" selected="Python.task_func_2_0">
     <configuration name="dirty_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="task2_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_func_2_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="task2_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python/import_module_package/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python/import_module_package/task/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,18 +156,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.task_iter" />
-      <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.dirty_main (1)" />
       <item itemvalue="Python.lection_2" />
       <item itemvalue="Python.task_gen" />
+      <item itemvalue="Python.task_func_2_0" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_func_2_0" />
         <item itemvalue="Python.task_gen" />
         <item itemvalue="Python.task_iter" />
         <item itemvalue="Python.lection_2" />
         <item itemvalue="Python.dirty_main (1)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585577498717</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="refactor folder">
+      <created>1585580290691</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585580290691</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,13 +313,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="0403" />
     <MESSAGE value="add task import_module_package" />
     <MESSAGE value="reworking" />
     <MESSAGE value="addtask iter" />
     <MESSAGE value="end task_iter.py" />
     <MESSAGE value="end task_gen.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="end task_gen.py" />
+    <MESSAGE value="refactor folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="398" key="#Vim_Emulation" timestamp="1583302280061">
@@ -340,18 +332,18 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="734" y="394" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1585312889802" />
-    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585579169034">
+    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585634733215">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1585579169034" />
+    <state x="1042" y="542" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1585634733215" />
     <state x="999" y="366" key="#dirty_main" timestamp="1585456201257">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="999" y="366" key="#dirty_main/0.40.2560.1400@0.40.2560.1400" timestamp="1585456201257" />
-    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585580241418">
+    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585580289675">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580241418" />
+    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580289675" />
     <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog" timestamp="1585456820775">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -360,38 +352,38 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="640" y="437" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1585565677593" />
-    <state width="2539" height="350" key="GridCell.Tab.0.bottom" timestamp="1585567239608">
+    <state width="2539" height="350" key="GridCell.Tab.0.bottom" timestamp="1585642569518">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585567239608" />
-    <state width="2539" height="350" key="GridCell.Tab.0.center" timestamp="1585567239608">
+    <state width="2539" height="350" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569518" />
+    <state width="2539" height="350" key="GridCell.Tab.0.center" timestamp="1585642569517">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585567239608" />
-    <state width="2539" height="350" key="GridCell.Tab.0.left" timestamp="1585567239608">
+    <state width="2539" height="350" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
+    <state width="2539" height="350" key="GridCell.Tab.0.left" timestamp="1585642569517">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585567239608" />
-    <state width="2539" height="350" key="GridCell.Tab.0.right" timestamp="1585567239608">
+    <state width="2539" height="350" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
+    <state width="2539" height="350" key="GridCell.Tab.0.right" timestamp="1585642569517">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585567239608" />
-    <state width="2539" height="424" key="GridCell.Tab.1.bottom" timestamp="1585554438853">
+    <state width="2539" height="350" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
+    <state width="2539" height="424" key="GridCell.Tab.1.bottom" timestamp="1585639559756">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585554438853" />
-    <state width="2539" height="424" key="GridCell.Tab.1.center" timestamp="1585554438853">
+    <state width="2539" height="424" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559756" />
+    <state width="2539" height="424" key="GridCell.Tab.1.center" timestamp="1585639559755">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585554438853" />
-    <state width="2539" height="424" key="GridCell.Tab.1.left" timestamp="1585554438853">
+    <state width="2539" height="424" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559755" />
+    <state width="2539" height="424" key="GridCell.Tab.1.left" timestamp="1585639559755">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585554438853" />
-    <state width="2539" height="424" key="GridCell.Tab.1.right" timestamp="1585554438853">
+    <state width="2539" height="424" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559755" />
+    <state width="2539" height="424" key="GridCell.Tab.1.right" timestamp="1585639559756">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585554438853" />
+    <state width="2539" height="424" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559756" />
     <state x="1015" y="450" key="RollbackChangesDialog" timestamp="1585557996514">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -404,18 +396,18 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.40.2560.1400@0.40.2560.1400" timestamp="1585577756943" />
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585577504507">
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585580293111">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577504507" />
-    <state x="975" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1585577383108">
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580293111" />
+    <state x="975" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1585633822636">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="975" y="563" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1585577383108" />
-    <state x="1089" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585577389366">
+    <state x="975" y="563" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1585633822636" />
+    <state x="1089" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585633839913">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1089" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577389366" />
+    <state x="1089" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585633839913" />
     <state x="1650" y="534" key="git4idea.merge.GitPullDialog" timestamp="1583414067933">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
