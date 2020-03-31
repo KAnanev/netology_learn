@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d9dfd7c-8d13-4feb-bd38-0db5447ce900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_text" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +37,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\import_module_package\task\application\db" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\russr\PycharmProjects\task2_2" />
       <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\12_work_in_class_api_vk" />
       <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\11_requests_http" />
       <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\10_work_format_data" />
       <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\9_context manager" />
-      <recent name="C:\Users\russr\PycharmProjects\task2_2\basic_python\8_open_read_write_file" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\russr\PycharmProjects\task2_2\import_module_package\task\application\db" />
     </key>
   </component>
   <component name="RunManager" selected="Python.task_func_2_0">
@@ -266,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585580290691</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add task_func_2_0.py">
+      <created>1585642613055</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585642613055</updated>
+    </task>
+    <task id="LOCAL-00014" summary=".gitignore">
+      <created>1585642658659</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585642658659</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +335,9 @@
     <MESSAGE value="end task_iter.py" />
     <MESSAGE value="end task_gen.py" />
     <MESSAGE value="refactor folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor folder" />
+    <MESSAGE value="add task_func_2_0.py" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="398" key="#Vim_Emulation" timestamp="1583302280061">
@@ -340,10 +356,10 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="999" y="366" key="#dirty_main/0.40.2560.1400@0.40.2560.1400" timestamp="1585456201257" />
-    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585580289675">
+    <state x="743" y="224" key="CommitChangelistDialog2" timestamp="1585642657691">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580289675" />
+    <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585642657691" />
     <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog" timestamp="1585456820775">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -352,38 +368,38 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="640" y="437" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1585565677593" />
-    <state width="2539" height="350" key="GridCell.Tab.0.bottom" timestamp="1585642569518">
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569518" />
-    <state width="2539" height="350" key="GridCell.Tab.0.center" timestamp="1585642569517">
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.0.center" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
-    <state width="2539" height="350" key="GridCell.Tab.0.left" timestamp="1585642569517">
+    <state width="2539" height="424" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.0.left" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
-    <state width="2539" height="350" key="GridCell.Tab.0.right" timestamp="1585642569517">
+    <state width="2539" height="424" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.0.right" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="350" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585642569517" />
-    <state width="2539" height="424" key="GridCell.Tab.1.bottom" timestamp="1585639559756">
+    <state width="2539" height="424" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.1.bottom" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559756" />
-    <state width="2539" height="424" key="GridCell.Tab.1.center" timestamp="1585639559755">
+    <state width="2539" height="424" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.1.center" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559755" />
-    <state width="2539" height="424" key="GridCell.Tab.1.left" timestamp="1585639559755">
+    <state width="2539" height="424" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.1.left" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559755" />
-    <state width="2539" height="424" key="GridCell.Tab.1.right" timestamp="1585639559756">
+    <state width="2539" height="424" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
+    <state width="2539" height="424" key="GridCell.Tab.1.right" timestamp="1585651923121">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2539" height="424" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585639559756" />
+    <state width="2539" height="424" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1585651923121" />
     <state x="1015" y="450" key="RollbackChangesDialog" timestamp="1585557996514">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -396,10 +412,10 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.40.2560.1400@0.40.2560.1400" timestamp="1585577756943" />
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585580293111">
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2" timestamp="1585642660416">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585580293111" />
+    <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585642660416" />
     <state x="975" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1585633822636">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -416,5 +432,16 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="943" y="355" width="672" height="678" key="search.everywhere.popup/0.40.2560.1400@0.40.2560.1400" timestamp="1585577770346" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/advanced_python/3_function_2_0_args_kwargs/task/task_func_2_0.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
