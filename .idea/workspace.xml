@@ -312,10 +312,10 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="999" y="366" key="#dirty_main/0.40.2560.1400@0.40.2560.1400" timestamp="1585456201257" />
-    <state x="409" y="29" key="CommitChangelistDialog2" timestamp="1585821228495">
+    <state x="409" y="29" key="CommitChangelistDialog2" timestamp="1585825022334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="409" y="29" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585821228495" />
+    <state x="409" y="29" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585825022334" />
     <state x="743" y="224" key="CommitChangelistDialog2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577471327" />
     <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog" timestamp="1585456820775">
       <screen x="0" y="40" width="2560" height="1400" />
@@ -382,20 +382,24 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="597" y="418" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1585416304187" />
-    <state x="640" y="280" key="Vcs.Push.Dialog.v2" timestamp="1585821231137">
+    <state x="499" y="173" key="VCS.ChangeListViewerDialog" timestamp="1585825173337">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="640" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585821231137" />
+    <state x="499" y="173" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1585825173337" />
+    <state x="640" y="280" key="Vcs.Push.Dialog.v2" timestamp="1585825025364">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585825025364" />
     <state x="1512" y="476" key="Vcs.Push.Dialog.v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585563562985" />
     <state x="548" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1585750811703">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="548" y="336" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585750811703" />
     <state x="975" y="563" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1585577383108" />
-    <state x="613" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585750819186">
+    <state x="613" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585825159454">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="613" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585750819186" />
+    <state x="613" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585825159454" />
     <state x="1089" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.2560.1400@0.40.2560.1400" timestamp="1585577389366" />
     <state x="1650" y="534" key="git4idea.merge.GitPullDialog" timestamp="1583414067933">
       <screen x="0" y="40" width="2560" height="1400" />
