@@ -35,3 +35,5 @@ def parametrizesed(ttl):
 def get_habr(uri='/'):
     result = requests.get(f'http://habr.com{uri}')
     return result.text
+
+get_habr()
