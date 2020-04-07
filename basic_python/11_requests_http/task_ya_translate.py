@@ -1,7 +1,8 @@
 import requests
 import os
+import api
 
-API_KEY = ''
+API_KEY = 'api'
 URL = 'https://translate.yandex.net/api/v1.5/tr.json/translate'
 
 name_file = 'FR'
