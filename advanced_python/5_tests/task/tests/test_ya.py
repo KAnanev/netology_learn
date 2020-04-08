@@ -15,11 +15,11 @@ def transletion_ya(ru_text):
     json_ = response.json()
     return json_
 
-
 class TestTranslYa(unittest.TestCase):
     def test_200_translation_ya(self):
         res_ya = transletion_ya('Hi')
         self.assertEqual(res_ya['code'], 200)
+
 
     def test_401_translation_ya(self):
         res_ya = transletion_ya('Hi')
