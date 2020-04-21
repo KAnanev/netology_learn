@@ -50,7 +50,7 @@ with pg.connect(
     """)
 
 # Вставка в таблицу Student
-    cur.execute("""
+cur.execute("""
             insert into Student(name, gpa) 
             values('Иван', 4.7),('Геннадий', NULL);
         """)
