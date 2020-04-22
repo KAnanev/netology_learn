@@ -37,7 +37,7 @@ def find_by_name(name, db):
     и вернуть их по возрастанию цены
     """
 
-    regex = re.compile(name)
+    regex = re.compile(name, re.I)
     return db.find({'Исполнитель': regex}).sort("Цена", 1)
 
 
@@ -45,4 +45,4 @@ def find_by_name(name, db):
 if __name__ == '__main__':
     # read_data('artists.csv', collection)
     # print(list(find_cheapest(collection)))
-    print(find_by_name('Fest', collection))
+    print(list(find_by_name('fest', collection)))
