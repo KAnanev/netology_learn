@@ -3,6 +3,7 @@ class Animals:
     name_ref = []
 
     def __init__(self, name, weight):
+        self.sound_animal = None
         self.name = name
         self.weight = weight
         Animals.name_ref.append(self)
@@ -72,7 +73,3 @@ list_name = [x.name for x in Animals.name_ref]
 list_weight = [x.weight for x in Animals.name_ref]
 max_index = list_weight.index(max(list_weight))
 print(f"Общий вес всех животных {sum(list_weight)}, имя самого тяжелого животного {list_name[max_index]}.")
-
-
-
-
